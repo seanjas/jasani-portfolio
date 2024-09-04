@@ -3,7 +3,7 @@
 const Cert = () => {
   return (
     <div id="certificate">
-        <h1 className="text-3xl font-bold mb-4 text-gray-800">CERTIFICATE</h1>
+        <h1 className="text-3xl font-bold mb-4 text-gray-800">CERTIFICATIONS</h1>
           <div className="bg-indigo-600 text-indigo-500 py-2 px-4 rounded-full mb-6">
             <h1 className="text-xl">_</h1>
           </div>

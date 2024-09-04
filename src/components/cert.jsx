@@ -34,11 +34,20 @@ const Cert = () => {
         <h1 className="text-xl bg-indigo-600 text-indigo-500 py-2 px-4 rounded-full mb-6"></h1>
         <div id="item4" className="carousel-item w-full">
           <img
-            src="/img/iet-first.png"
+            src="/img/copyright.jpg"
             alt="Image 4"
             className="w-full"
           />
         </div>
+        <h1 className="text-xl bg-indigo-600 text-indigo-500 py-2 px-4 rounded-full mb-6"></h1>
+        <div id="item5" className="carousel-item w-full">
+          <img
+            src="/img/iet-first.png"
+            alt="Image 5"
+            className="w-full"
+          />
+        </div>
+        
       </div>
       
     </div>
